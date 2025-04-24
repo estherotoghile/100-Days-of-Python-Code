@@ -1,17 +1,17 @@
-# 🎶 Day 1 – Band Name Generator
+# Day 1 – Band Name Generator
 
 Welcome to my Day 1 project from the Udemy course  
 **"100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu**
 
 ----
 
-## 💻 Project Description
+## Project Description
 This project generates a fun **band name** based on the user's city and pet name.  
 It introduces core concepts of Python such as printing to the console, handling user input, and string concatenation.
 
 ----
 
-## 🧠 What I Learned
+## What I Learned
 - How to use the `print()` function in Python
 - Taking user input using the `input()` function
 - Naming variables, storing input in variables, and the importance of variables
@@ -19,12 +19,12 @@ It introduces core concepts of Python such as printing to the console, handling 
 
 ----
 
-## 🛠️ Tools Used
+## Tools Used
 - PyCharm
 
 ----
 
-## 📄 Code Snippet
+## Code Snippet
 
 ```python
 print("Welcome to the Band Name Generator.")
@@ -46,6 +46,4 @@ Your band name could be: Benin Emperor
 
 ----
 
-## Note 
-This is my first project in the 100 Days of Code challenge.
-I'm excited to continue building and learning every day.
+Project completed ✅  
