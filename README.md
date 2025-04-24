@@ -21,7 +21,8 @@ This repository documents my progress from **Beginner** to **Advanced** in Pytho
 ### 🚀 Beginner Level
 | Day | Project Title | Link |
 |-----|---------------|------|
-| 01  | Band Name Generator 🎸  | [View Project](./Day-01-Band-Name-Generator) |
+| 01  | Band Name Generator  | [View Project](./Day-01-Band-Name-Generator) |
+| 02  | Tip Calculator       | [View Project](./Day-02-Tip-Calculator)      |
 
 
 ---
