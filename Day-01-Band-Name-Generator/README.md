@@ -5,6 +5,12 @@ Welcome to my Day 1 project from the Udemy course
 
 ----
 
+## 💻 Project Description
+This project generates a fun **band name** based on the user's city and pet name.  
+It introduces core concepts of Python such as printing to the console, handling user input, and string concatenation.
+
+----
+
 ## 🧠 What I Learned
 - How to use the `print()` function in Python
 - Taking user input using the `input()` function
@@ -12,12 +18,6 @@ Welcome to my Day 1 project from the Udemy course
 - String manipulation
 
 ----
-
-## 💻 Project Description
-This project generates a fun **band name** based on the user's city and pet name.  
-It introduces core concepts of Python such as printing to the console, handling user input, and string concatenation.
-
----
 
 ## 🛠️ Tools Used
 - PyCharm
