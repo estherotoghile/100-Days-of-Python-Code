@@ -30,4 +30,4 @@ Then, it calculates and displays how much each person should pay.
 
 ----
 
-Project completed ✅  
+Project 2 completed ✅  
