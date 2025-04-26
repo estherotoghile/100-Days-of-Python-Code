@@ -46,4 +46,4 @@ Your band name could be: Benin Emperor
 
 ----
 
-Project completed ✅  
+Project 1 completed ✅  
