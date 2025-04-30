@@ -24,7 +24,7 @@ This repository documents my progress from **Beginner** to **Advanced** in Pytho
 | 01  | Band Name Generator  | [View Project](./Day-01-Band-Name-Generator) |
 | 02  | Tip Calculator       | [View Project](./Day-02-Tip-Calculator)      |
 | 03  | Treasure Island      | [View Project](./Day-03-Treasure-Island)     |
-
+| 04  | Rock Paper Scissors  | [View Project](./Day-04-Rock-Paper-Scissors)     |
 
 ---
 
