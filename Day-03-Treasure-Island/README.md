@@ -36,4 +36,5 @@ Each decision affects the outcome — some choices lead to winning, others lead 
 - Using multi-line string art (print(r'''...''')) to make the game visually engaging
 
   ----
+  
   Project 3 completed ✅
