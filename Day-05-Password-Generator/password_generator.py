@@ -14,7 +14,6 @@ nr_numbers = int(input(f"How many numbers would you like?\n>> "))
 # List to hold randomly selected characters
 password_list =[]
 
-
 # Randomly choose letters, numbers and symbols
 for _ in range(nr_letters):
     password_list.append(random.choice(letters))
@@ -24,7 +23,6 @@ for _ in range(nr_numbers):
 
 for _ in range(nr_symbols):
     password_list.append(random.choice(symbols))
-
 
 # Shuffle the list to make the password more random
 random.shuffle(password_list)
