@@ -3,6 +3,7 @@
 Welcome to the **Rock, Paper, Scissors** game! This is a fun and interactive Python game where you can play against the computer.
 
 ----
+
 ## Game Objective
 In this game, you will choose between Rock, Paper, or Scissors. The computer will randomly pick one of these as well. The goal is to select the option that beats the computer’s choice:
 - **Rock** beats **Scissors**
